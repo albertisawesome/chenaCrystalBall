@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\CrystalBall\\app\\build\\intermediates\\res\\merged\\debug\\raw\\regularbell.mp3",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\CrystalBall\\app\\src\\main\\res\\raw\\regularbell.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\CrystalBall\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ding.wav",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\CrystalBall\\app\\src\\main\\res\\raw\\ding.wav"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\CrystalBall\\app\\build\\intermediates\\res\\merged\\debug\\raw\\slap.mp3",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\CrystalBall\\app\\src\\main\\res\\raw\\slap.mp3"
+    }
+]
